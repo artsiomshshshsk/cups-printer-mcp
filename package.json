@@ -6,7 +6,7 @@
   "author": "artsiomshshshsk",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/artsiomshshshsk/brother-printer-mcp.git"
+    "url": "git+https://github.com/artsiomshshshsk/cups-printer-mcp.git"
   },
   "type": "module",
   "main": "build/index.js",
